@@ -1,0 +1,8 @@
+Package: com.lios.ezwin
+Name: Last Island of Survival
+Depends: mobilesubstrate
+Version: 2.9.0
+Architecture: iphoneos-arm
+Description: Cheat framework for Last Island of Survival
+Maintainer: EzWin-iOS
+Author: busmanl30

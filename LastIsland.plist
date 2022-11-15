@@ -1,0 +1,7 @@
+{
+    Filter =     {
+        Bundles =         (
+            "com.herogame.ios.lastdayrules"
+        );
+    };
+}
